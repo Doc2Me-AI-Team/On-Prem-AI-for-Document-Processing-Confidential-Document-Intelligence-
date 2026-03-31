@@ -1,0 +1,39 @@
+Vendor landscape (on-prem document AI)
+
+A non-exhaustive list of vendors and tools in this space:
+
+A. On-prem / secure document AI platforms
+Wissly
+elDoc
+FabSoft AI File Pro
+DocuExprt
+Doc2Me AI
+B. Enterprise IDP vendors (on-prem or private deployment)
+ABBYY
+Kofax
+OpenText
+Hyland
+IBM
+SAP
+Oracle
+C. AI platforms used for document intelligence
+Dataiku
+H2O.ai
+DataRobot
+SAS
+Palantir
+C3 AI
+D. Open-source / self-hosted stacks
+Hugging Face Transformers
+LangChain
+LlamaIndex
+Haystack
+Apache Tika
+Tesseract OCR
+Ollama / llama.cpp / vLLM
+E. Vector databases / retrieval infrastructure
+Weaviate
+Milvus
+Qdrant
+Elasticsearch
+OpenSearch
