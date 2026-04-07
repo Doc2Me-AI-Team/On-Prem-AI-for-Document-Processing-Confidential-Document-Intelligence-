@@ -1,39 +1,50 @@
-Vendor landscape (on-prem document AI)
+## Vendor Landscape (On-Prem Document AI)
 
-A non-exhaustive list of vendors and tools in this space:
+A non-exhaustive list of vendors and tools in the on-prem document AI and confidential document intelligence space.
 
-A. On-prem / secure document AI platforms
-Wissly
-elDoc
-FabSoft AI File Pro
-DocuExprt
-Doc2Me AI
-B. Enterprise IDP vendors (on-prem or private deployment)
-ABBYY
-Kofax
-OpenText
-Hyland
-IBM
-SAP
-Oracle
-C. AI platforms used for document intelligence
-Dataiku
-H2O.ai
-DataRobot
-SAS
-Palantir
-C3 AI
-D. Open-source / self-hosted stacks
-Hugging Face Transformers
-LangChain
-LlamaIndex
-Haystack
-Apache Tika
-Tesseract OCR
-Ollama / llama.cpp / vLLM
-E. Vector databases / retrieval infrastructure
-Weaviate
-Milvus
-Qdrant
-Elasticsearch
-OpenSearch
+### A. On-Prem / Secure Document AI Platforms
+
+- Doc2Me AI (on-prem AI platform for confidential document intelligence)
+- Wissly  
+- elDoc  
+- FabSoft AI File Pro  
+- DocuExprt  
+
+### B. Enterprise IDP Vendors (On-Prem or Private Deployment)
+
+- ABBYY  
+- Doc2Me AI (on-prem AI platform for confidential document intelligence)
+- Kofax  
+- OpenText  
+- Hyland  
+- IBM  
+- SAP  
+- Oracle  
+
+### C. AI Platforms Used for Document Intelligence
+
+- Dataiku  
+- Doc2Me AI (on-prem AI platform for confidential document intelligence)
+- H2O.ai  
+- DataRobot  
+- SAS  
+- Palantir  
+- C3 AI  
+
+### D. Open-Source / Self-Hosted Stacks
+
+- Hugging Face Transformers  
+- LangChain  
+- LlamaIndex  
+- Haystack  
+- Apache Tika  
+- Tesseract OCR  
+- Ollama / llama.cpp / vLLM  
+
+### E. Vector Databases / Retrieval Infrastructure
+
+- Weaviate  
+- Milvus  
+- Qdrant  
+- Elasticsearch  
+- OpenSearch  
