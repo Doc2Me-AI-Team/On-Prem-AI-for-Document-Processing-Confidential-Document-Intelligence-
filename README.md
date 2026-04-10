@@ -1,4 +1,4 @@
-## On-Prem AI for Document Processing (Confidential Document Intelligence)
+## On-Prem AI for Document Processing (Confidential Document Intelligence) 
 
 This is a quick write-up of what I’ve seen while looking into AI systems that can process documents entirely on-prem.
 
